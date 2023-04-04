@@ -1,0 +1,11 @@
+{
+	"name": "PowerApps Dev Container",
+	"dockerFile": "./Dockerfile",
+	"customizations": {
+		"vscode": {
+			"extensions": [
+				"microsoft-IsvExpTools.powerplatform-vscode"
+			]
+		}
+	}
+}
