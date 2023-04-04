@@ -1,4 +1,4 @@
-# PowerApps Dev Container
+# PowerApps Dev Container Template
 
 This project provides a development environment for building PowerApps using VS Code and Docker containers. With this setup, you can develop, test, and deploy PowerApps in a consistent and isolated environment, without having to set up PowerApps tools and dependencies on your local machine.
 
